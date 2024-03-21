@@ -1,6 +1,6 @@
-keras==2.6.0
 streamlit==0.88.0
-tensorflow==2.7.0  # or any other compatible version
 Pillow==8.3.2
 numpy==1.19.5
+keras==2.6.0
 keras-preprocessing==1.1.2
+
