@@ -1,0 +1,6 @@
+ streamlit 
+ keras
+ PIL 
+ numpy 
+sqlite3
+ io 
